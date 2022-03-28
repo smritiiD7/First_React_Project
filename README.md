@@ -1,3 +1,4 @@
 # First_React_Project
-LINK:
+Learning bish xD
+
 https://gleeful-cranachan-061492.netlify.app/
